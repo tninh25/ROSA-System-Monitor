@@ -1,0 +1,19 @@
+{
+    "registration": {
+        "company_name": "VIẾT SƠN JSC",
+        "machine_name": "ROSA-01",
+        "email": "tranninh903@gmail.com",
+        "registration_date": "2025-11-11T11:12:19.067817",
+        "status": "activated",
+        "version": "1.0.0"
+    },
+    "system_info": {
+        "os_info": "nt",
+        "timestamp": "2025-11-11T11:12:19.067817"
+    },
+    "settings": {
+        "monitoring_enabled": true,
+        "alert_enabled": true,
+        "auto_start": false
+    }
+}

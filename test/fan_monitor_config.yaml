@@ -1,0 +1,5 @@
+company_name: Viet Son JSC
+email: tranninh903@gmail.com
+machine_name: PC-01
+polling_interval: 5
+selected_fan: 'CPU Fan #1'
