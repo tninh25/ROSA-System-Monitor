@@ -1,0 +1,8 @@
+# Build output
+exe/
+install/
+nuitka_temp/
+
+# Python cache
+__pycache__/
+*.pyc
